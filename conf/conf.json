@@ -1,0 +1,17 @@
+
+{
+    "SERVER": "MXL306174Q",
+    "DATABASE": "DemoBD",
+    "logFile_Name": "log.txt",
+    "logFile_Path": "C:\\Users\\B729515\\OneDrive - MER     CANTIL, C.A. BANCO UNIVERSAL\\Documentos\\AgenteLoadAT45\\logs",
+    "logFile_MaxSize": 10485760,
+    "max_logfile_size" : 10000000,
+     "backupCount"      : 3, 
+     "connection_string" : {"DRIVER" :"SQL Server",
+                            "SERVER": "SERVER",
+                            "DATABASE" : "DATABASE",
+                           "Trusted_Connection" : "yes"},
+     "list_queries" :["insert_into_At45_Stagins.sql",
+                      "count_At45_Stagins.sql","bulk_insert_At45.sql","procedure.sql"]                      
+}
+

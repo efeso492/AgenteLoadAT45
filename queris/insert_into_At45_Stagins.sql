@@ -1,0 +1,1 @@
+TRUNCATE TABLE dbo.At45_Staging

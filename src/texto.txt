@@ -1,0 +1,3 @@
+File Watcher con la librería watchdog, de modo que no tengas que escanear la carpeta cada cierto tiempo, 
+sino que el ETL se active automáticamente cuando un archivo caiga en inputs/. Esa es la arquitectura que
+normalmente implementamos para agentes de carga en SQL Server.

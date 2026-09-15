@@ -1,0 +1,137 @@
+2026-09-10 15:57:00,421 [MainThread  ] [INFO ]  Iniciando la conexión a la base de datos...
+2026-09-10 15:57:53,007 [MainThread  ] [INFO ]  Iniciando la conexión a la base de datos...
+2026-09-10 16:10:13,307 [MainThread  ] [INFO ]  Iniciando la conexión a la base de datos...
+2026-09-10 16:16:43,432 [MainThread  ] [INFO ]  Iniciando la conexión a la base de datos...
+2026-09-10 16:24:25,423 [MainThread  ] [INFO ]  Iniciando la conexión a la base de datos...
+2026-09-10 17:17:34,855 [MainThread  ] [ERROR]  No existe el archivo de configuración: C:\Users\B729515\OneDrive - MERCANTIL, C.A. BANCO UNIVERSAL\Documentos\AgenteLoadAT45\conf\conf.json
+Traceback (most recent call last):
+  File "C:\Users\B729515\OneDrive - MERCANTIL, C.A. BANCO UNIVERSAL\Documentos\AgenteLoadAT45\src\config.py", line 66, in leer_configuracion
+    list_queries = os.listdir(ruta_queries)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [WinError 3] El sistema no puede encontrar la ruta especificada: 'C:\\Users\\B729515\\OneDrive - MERCANTIL, C.A. BANCO UNIVERSAL\\Documentos\\AgenteLoadAT45\\queries'
+2026-09-10 17:19:57,653 [MainThread  ] [ERROR]  ==> Consulta SQL -- insert_into_At45_Stagins -- no se encuentra en el directorio, por favor revise el directorio C:\Users\B729515\OneDrive - MERCANTIL, C.A. BANCO UNIVERSAL\Documentos\AgenteLoadAT45\queris y el archivo de confirugración
+2026-09-10 17:32:52,022 [MainThread  ] [ERROR]  ==> Consulta SQL -- insert_into_At45_Stagins -- no se encuentra en el directorio, por favor revise el directorio C:\Users\B729515\OneDrive - MERCANTIL, C.A. BANCO UNIVERSAL\Documentos\AgenteLoadAT45\queris y el archivo de confirugración
+2026-09-10 17:34:00,436 [MainThread  ] [ERROR]  ==> Consulta SQL -- insert_into_At45_Stagins -- no se encuentra en el directorio, por favor revise el directorio C:\Users\B729515\OneDrive - MERCANTIL, C.A. BANCO UNIVERSAL\Documentos\AgenteLoadAT45\queris y el archivo de confirugración
+2026-09-10 17:34:24,530 [MainThread  ] [INFO ]  Iniciando la conexión a la base de datos...
+2026-09-10 18:00:04,198 [MainThread  ] [INFO ]  Iniciando la conexión a la base de datos...
+2026-09-10 18:00:04,200 [MainThread  ] [INFO ]  Iniciando la conexión a la base de datos...
+2026-09-10 18:00:19,929 [MainThread  ] [INFO ]  Iniciando la conexión a la base de datos...
+2026-09-10 18:00:19,929 [MainThread  ] [INFO ]  Iniciando la conexión a la base de datos...
+2026-09-10 18:00:19,929 [MainThread  ] [INFO ]  Limpiando At45_Staging
+2026-09-10 18:00:19,929 [MainThread  ] [INFO ]  Conexion Exitosa
+2026-09-10 18:02:26,770 [MainThread  ] [INFO ]  Iniciando la conexión a la base de datos...
+2026-09-10 18:02:26,770 [MainThread  ] [INFO ]  Iniciando la conexión a la base de datos...
+2026-09-10 18:02:26,770 [MainThread  ] [INFO ]  Limpiando At45_Staging
+2026-09-10 18:02:26,774 [MainThread  ] [INFO ]  Conexion Exitosa
+2026-09-10 18:03:48,164 [MainThread  ] [INFO ]  Iniciando la conexión a la base de datos...
+2026-09-10 18:03:48,165 [MainThread  ] [INFO ]  Iniciando la conexión a la base de datos...
+2026-09-10 18:03:48,166 [MainThread  ] [INFO ]  Limpiando At45_Staging
+2026-09-10 18:03:48,166 [MainThread  ] [INFO ]  Conexion Exitosa
+2026-09-10 18:04:17,598 [MainThread  ] [INFO ]  Iniciando la conexión a la base de datos...
+2026-09-10 18:04:17,599 [MainThread  ] [INFO ]  Iniciando la conexión a la base de datos...
+2026-09-10 18:04:17,599 [MainThread  ] [INFO ]  Limpiando At45_Staging
+2026-09-10 18:04:17,600 [MainThread  ] [INFO ]  Conexion Exitosa
+2026-09-10 18:05:01,090 [MainThread  ] [INFO ]  Iniciando la conexión a la base de datos...
+2026-09-10 18:05:01,090 [MainThread  ] [INFO ]  Iniciando la conexión a la base de datos...
+2026-09-10 18:05:01,090 [MainThread  ] [INFO ]  Limpiando At45_Staging
+2026-09-10 18:05:01,090 [MainThread  ] [INFO ]  Conexion Exitosa
+2026-09-10 18:06:15,528 [MainThread  ] [INFO ]  Iniciando la conexión a la base de datos...
+2026-09-10 18:06:15,528 [MainThread  ] [INFO ]  Iniciando la conexión a la base de datos...
+2026-09-10 18:06:15,536 [MainThread  ] [INFO ]  Limpiando At45_Staging
+2026-09-10 18:06:15,536 [MainThread  ] [INFO ]  Conexion Exitosa
+2026-09-10 18:07:00,059 [MainThread  ] [INFO ]  Iniciando la conexión a la base de datos...
+2026-09-10 18:07:00,059 [MainThread  ] [INFO ]  Limpiando At45_Staging
+2026-09-10 18:07:00,059 [MainThread  ] [INFO ]  Conexion Exitosa
+2026-09-11 13:13:23,388 [MainThread  ] [INFO ]  Iniciando la conexión a la base de datos...
+2026-09-11 13:13:23,393 [MainThread  ] [INFO ]  Limpiando At45_Staging
+2026-09-11 13:13:23,396 [MainThread  ] [INFO ]  Conexion Exitosa
+2026-09-11 13:20:51,959 [MainThread  ] [INFO ]  Iniciando la conexión a la base de datos...
+2026-09-11 13:20:51,959 [MainThread  ] [INFO ]  Limpiando At45_Staging
+2026-09-11 13:20:51,959 [MainThread  ] [INFO ]  Conexion Exitosa
+2026-09-11 13:20:51,977 [MainThread  ] [INFO ]  Total de registros en At45_Staging: 0
+2026-09-11 13:20:51,978 [MainThread  ] [INFO ]  proceso completado
+2026-09-11 13:50:56,916 [MainThread  ] [INFO ]  Iniciando la conexión a la base de datos...
+2026-09-11 13:50:56,916 [MainThread  ] [INFO ]  Conexión exitosa
+2026-09-11 13:50:56,922 [MainThread  ] [INFO ]  Validación de limpieza At45_Staging. Registros encontrados: 0
+2026-09-11 13:50:56,926 [MainThread  ] [INFO ]  Proceso completado
+2026-09-11 16:25:47,184 [MainThread  ] [INFO ]  Iniciando la conexión a la base de datos...
+2026-09-11 16:25:47,187 [MainThread  ] [INFO ]  Conexión exitosa
+2026-09-11 16:25:47,195 [MainThread  ] [INFO ]  Validación de limpieza At45_Staging. Registros encontrados: 0
+2026-09-11 16:25:47,197 [MainThread  ] [INFO ]  Proceso completado
+2026-09-11 16:25:47,200 [MainThread  ] [INFO ]  Archivo encontrado: AT4502911260911.txt
+2026-09-11 16:25:47,202 [MainThread  ] [INFO ]  Conexión exitosa
+2026-09-11 16:25:47,208 [MainThread  ] [ERROR]  Error al procesar At45_Staging: ('42000', '[42000] [Microsoft][ODBC SQL Server Driver][SQL Server]Cannot bulk load. The file "{ruta_archivo}" does not exist or you don\'t have file access rights. (4860) (SQLExecDirectW)')
+Traceback (most recent call last):
+  File "C:\Users\B729515\OneDrive - MERCANTIL, C.A. BANCO UNIVERSAL\Documentos\AgenteLoadAT45\src\load_build_insert.py", line 36, in ejecutar_bulk_insert
+    cursor.execute(sql)
+pyodbc.ProgrammingError: ('42000', '[42000] [Microsoft][ODBC SQL Server Driver][SQL Server]Cannot bulk load. The file "{ruta_archivo}" does not exist or you don\'t have file access rights. (4860) (SQLExecDirectW)')
+2026-09-11 16:27:30,878 [MainThread  ] [INFO ]  Iniciando la conexión a la base de datos...
+2026-09-11 16:27:30,878 [MainThread  ] [INFO ]  Conexión exitosa
+2026-09-11 16:27:30,883 [MainThread  ] [INFO ]  Validación de limpieza At45_Staging. Registros encontrados: 0
+2026-09-11 16:27:30,883 [MainThread  ] [INFO ]  Proceso completado
+2026-09-11 16:27:30,887 [MainThread  ] [INFO ]  Archivo encontrado: AT4502911260911.txt
+2026-09-11 16:27:30,890 [MainThread  ] [INFO ]  Conexión exitosa
+2026-09-11 16:27:30,903 [MainThread  ] [INFO ]  Validación exitosa. Registros cargados: 133
+2026-09-11 16:27:30,903 [MainThread  ] [INFO ]  Proceso completado
+2026-09-11 16:53:04,499 [MainThread  ] [INFO ]  Iniciando la conexión a la base de datos...
+2026-09-11 16:53:04,501 [MainThread  ] [INFO ]  Conexión exitosa
+2026-09-11 16:53:04,508 [MainThread  ] [INFO ]  Validación de limpieza At45_Staging. Registros encontrados: 0
+2026-09-11 16:53:04,509 [MainThread  ] [INFO ]  Proceso completado
+2026-09-11 16:53:04,512 [MainThread  ] [INFO ]  Archivo encontrado: AT4502911260911.txt
+2026-09-11 16:53:04,517 [MainThread  ] [INFO ]  Conexión exitosa
+2026-09-11 16:53:04,527 [MainThread  ] [INFO ]  Validación exitosa. Registros cargados: 133
+2026-09-11 16:53:04,528 [MainThread  ] [INFO ]  Proceso completado
+2026-09-11 16:53:04,537 [MainThread  ] [INFO ]  Conexión exitosa
+2026-09-11 16:53:04,537 [MainThread  ] [INFO ]  Ejecutando procedimiento almacenado
+2026-09-11 16:53:04,623 [MainThread  ] [INFO ]  Procedimiento ejecutado exitosamente
+2026-09-15 16:08:36,384 [MainThread  ] [INFO ]  Iniciando la conexión a la base de datos...
+2026-09-15 16:19:56,652 [MainThread  ] [INFO ]  Iniciando la conexión a la base de datos...
+2026-09-15 16:19:56,653 [MainThread  ] [INFO ]  Calculando checksum para: AT4502911260911.txt
+2026-09-15 16:38:40,180 [MainThread  ] [INFO ]  Iniciando la conexión a la base de datos...
+2026-09-15 16:38:40,183 [MainThread  ] [INFO ]  Calculando metadatos para: AT4502911260911.txt
+2026-09-15 16:39:27,378 [MainThread  ] [INFO ]  Iniciando la conexión a la base de datos...
+2026-09-15 16:39:27,379 [MainThread  ] [INFO ]  Calculando metadatos para: AT4502911260911.txt
+2026-09-15 16:39:27,382 [MainThread  ] [INFO ]  Calculando checksum para: AT4502911260911.txt
+2026-09-15 16:40:41,587 [MainThread  ] [INFO ]  Iniciando la conexión a la base de datos...
+2026-09-15 16:40:41,588 [MainThread  ] [INFO ]  Calculando metadatos para: AT4502911260911.txt
+2026-09-15 16:40:41,591 [MainThread  ] [INFO ]  Calculando checksum para: AT4502911260911.txt
+2026-09-15 16:45:34,725 [MainThread  ] [INFO ]  Iniciando la conexión a la base de datos...
+2026-09-15 16:45:34,727 [MainThread  ] [INFO ]  Calculando metadatos para: AT4502911260911.txt
+2026-09-15 16:45:34,728 [MainThread  ] [INFO ]  Calculando checksum para: AT4502911260911.txt
+2026-09-15 16:49:14,255 [MainThread  ] [INFO ]  Iniciando la conexión a la base de datos...
+2026-09-15 16:49:14,257 [MainThread  ] [INFO ]  Total de registros en AT4502911260911.txt: 133
+2026-09-15 16:49:14,258 [MainThread  ] [INFO ]  Calculando metadatos para: AT4502911260911.txt
+2026-09-15 16:49:14,260 [MainThread  ] [INFO ]  Calculando checksum para: AT4502911260911.txt
+2026-09-15 16:52:32,518 [MainThread  ] [INFO ]  Iniciando la conexión a la base de datos...
+2026-09-15 16:52:32,520 [MainThread  ] [INFO ]  Total de registros en AT4502911260911.txt: 133
+2026-09-15 16:52:32,524 [MainThread  ] [INFO ]  Calculando metadatos para: AT4502911260911.txt
+2026-09-15 16:52:32,525 [MainThread  ] [INFO ]  Calculando checksum para: AT4502911260911.txt
+2026-09-15 16:52:56,478 [MainThread  ] [INFO ]  Iniciando la conexión a la base de datos...
+2026-09-15 16:52:56,480 [MainThread  ] [INFO ]  Total de registros en AT4502911260911.txt: 133
+2026-09-15 16:52:56,481 [MainThread  ] [INFO ]  Calculando metadatos para: AT4502911260911.txt
+2026-09-15 16:52:56,483 [MainThread  ] [INFO ]  Calculando checksum para: AT4502911260911.txt
+2026-09-15 16:57:03,046 [MainThread  ] [INFO ]  Iniciando la conexión a la base de datos...
+2026-09-15 16:57:03,047 [MainThread  ] [INFO ]  Archivo TXT encontrado: .txt
+2026-09-15 16:57:03,049 [MainThread  ] [INFO ]  Total de registros en AT4502911260911.txt: 133
+2026-09-15 16:57:03,050 [MainThread  ] [INFO ]  Calculando metadatos para: AT4502911260911.txt
+2026-09-15 16:57:03,052 [MainThread  ] [INFO ]  Calculando checksum para: AT4502911260911.txt
+2026-09-15 17:01:17,375 [MainThread  ] [INFO ]  Iniciando la conexión a la base de datos...
+2026-09-15 17:01:17,376 [MainThread  ] [INFO ]  Archivo TXT encontrado: .txt
+2026-09-15 17:01:17,380 [MainThread  ] [INFO ]  Total de registros en AT4502911260911.txt: 133
+2026-09-15 17:01:17,381 [MainThread  ] [INFO ]  Calculando metadatos para: AT4502911260911.txt
+2026-09-15 17:01:17,384 [MainThread  ] [INFO ]  Calculando checksum para: AT4502911260911.txt
+2026-09-15 17:07:48,869 [MainThread  ] [INFO ]  Iniciando la conexión a la base de datos...
+2026-09-15 17:07:48,870 [MainThread  ] [INFO ]  Archivo TXT encontrado: .txt
+2026-09-15 17:07:48,872 [MainThread  ] [INFO ]  Total de registros en AT4502911260911.txt: 133
+2026-09-15 17:07:48,873 [MainThread  ] [INFO ]  Calculando metadatos para: AT4502911260911.txt
+2026-09-15 17:07:48,875 [MainThread  ] [INFO ]  Calculando checksum para: AT4502911260911.txt
+2026-09-15 17:09:03,255 [MainThread  ] [INFO ]  Iniciando la conexión a la base de datos...
+2026-09-15 17:09:03,256 [MainThread  ] [INFO ]  Archivo TXT encontrado: .txt
+2026-09-15 17:09:03,258 [MainThread  ] [INFO ]  Total de registros en AT4502911260911.txt: 133
+2026-09-15 17:09:03,259 [MainThread  ] [INFO ]  Calculando metadatos para: AT4502911260911.txt
+2026-09-15 17:09:03,262 [MainThread  ] [INFO ]  Calculando checksum para: AT4502911260911.txt
+2026-09-15 17:09:11,406 [MainThread  ] [INFO ]  Iniciando la conexión a la base de datos...
+2026-09-15 17:09:11,408 [MainThread  ] [INFO ]  Archivo TXT encontrado: .txt
+2026-09-15 17:09:11,410 [MainThread  ] [INFO ]  Total de registros en AT4502911260911.txt: 133
+2026-09-15 17:09:11,412 [MainThread  ] [INFO ]  Calculando metadatos para: AT4502911260911.txt
+2026-09-15 17:09:11,414 [MainThread  ] [INFO ]  Calculando checksum para: AT4502911260911.txt
