@@ -135,3 +135,40 @@ pyodbc.ProgrammingError: ('42000', '[42000] [Microsoft][ODBC SQL Server Driver][
 2026-09-15 17:09:11,410 [MainThread  ] [INFO ]  Total de registros en AT4502911260911.txt: 133
 2026-09-15 17:09:11,412 [MainThread  ] [INFO ]  Calculando metadatos para: AT4502911260911.txt
 2026-09-15 17:09:11,414 [MainThread  ] [INFO ]  Calculando checksum para: AT4502911260911.txt
+2026-09-18 13:25:44,604 [MainThread  ] [INFO ]  Iniciando la conexión a la base de datos...
+2026-09-18 13:25:44,611 [MainThread  ] [INFO ]  Archivo TXT encontrado: .txt
+2026-09-18 13:25:44,620 [MainThread  ] [INFO ]  Total de registros en AT4502911260911.txt: 133
+2026-09-18 13:25:44,622 [MainThread  ] [INFO ]  Calculando metadatos para: AT4502911260911.txt
+2026-09-18 13:25:44,624 [MainThread  ] [INFO ]  Calculando checksum para: AT4502911260911.txt
+2026-09-18 16:09:59,249 [MainThread  ] [INFO ]  Iniciando la conexión a la base de datos...
+2026-09-18 16:09:59,251 [MainThread  ] [INFO ]  Archivo TXT encontrado: .txt
+2026-09-18 16:09:59,257 [MainThread  ] [INFO ]  Total de registros en AT4502911260911.txt: 133
+2026-09-18 16:09:59,268 [MainThread  ] [INFO ]  Calculando metadatos para: AT4502911260911.txt
+2026-09-18 16:09:59,272 [MainThread  ] [INFO ]  Calculando checksum para: AT4502911260911.txt
+2026-09-18 16:21:29,120 [MainThread  ] [INFO ]  Iniciando la conexión a la base de datos...
+2026-09-18 16:21:29,123 [MainThread  ] [INFO ]  Archivo TXT encontrado: .txt
+2026-09-18 16:21:29,124 [MainThread  ] [INFO ]  Total de registros en AT4502911260911.txt: 133
+2026-09-18 16:21:29,126 [MainThread  ] [INFO ]  Calculando metadatos para: AT4502911260911.txt
+2026-09-18 16:21:29,128 [MainThread  ] [INFO ]  Calculando checksum para: AT4502911260911.txt
+2026-09-18 16:21:29,176 [MainThread  ] [INFO ]  Auditoría insertada para el archivo AT4502911260911.txt
+2026-09-18 16:21:29,181 [MainThread  ] [INFO ]  Conexión exitosa
+2026-09-18 16:21:29,191 [MainThread  ] [INFO ]  Validación de limpieza At45_Staging. Registros encontrados: 0
+2026-09-18 16:21:29,193 [MainThread  ] [INFO ]  Proceso completado
+2026-09-18 16:21:29,198 [MainThread  ] [INFO ]  Archivo encontrado: AT4502911260911.txt
+2026-09-18 16:21:29,231 [MainThread  ] [INFO ]  Conexión exitosa
+2026-09-18 16:21:29,344 [MainThread  ] [INFO ]  Validación exitosa. Registros cargados: 133
+2026-09-18 16:21:29,345 [MainThread  ] [INFO ]  Proceso completado
+2026-09-18 16:21:29,348 [MainThread  ] [INFO ]  Conexión exitosa
+2026-09-18 16:21:29,349 [MainThread  ] [INFO ]  Ejecutando procedimiento almacenado
+2026-09-18 16:21:29,425 [MainThread  ] [INFO ]  Procedimiento ejecutado exitosamente
+2026-09-18 16:27:36,988 [MainThread  ] [INFO ]  Iniciando la conexión a la base de datos...
+2026-09-18 16:27:36,990 [MainThread  ] [INFO ]  Archivo TXT encontrado: .txt
+2026-09-18 16:27:36,993 [MainThread  ] [INFO ]  Total de registros en AT4502911260911.txt: 133
+2026-09-18 16:27:36,998 [MainThread  ] [INFO ]  Calculando metadatos para: AT4502911260911.txt
+2026-09-18 16:27:37,001 [MainThread  ] [INFO ]  Calculando checksum para: AT4502911260911.txt
+2026-09-18 16:27:37,013 [MainThread  ] [ERROR]  El archivo ya fue cargado anteriormente: AT4502911260911.txt
+2026-09-18 16:27:37,014 [MainThread  ] [ERROR]  Error insertando los metadatos de auditoría
+Traceback (most recent call last):
+  File "C:\Users\B729515\OneDrive - MERCANTIL, C.A. BANCO UNIVERSAL\Documentos\AgenteLoadAT45\src\auditoria_bk.py", line 175, in insertar_auditoria
+    raise RuntimeError(mensaje)
+RuntimeError: El archivo ya fue cargado anteriormente: AT4502911260911.txt

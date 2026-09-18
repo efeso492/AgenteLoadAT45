@@ -11,7 +11,9 @@
                             "SERVER": "SERVER",
                             "DATABASE" : "DATABASE",
                            "Trusted_Connection" : "yes"},
-     "list_queries" :["insert_into_At45_Stagins.sql",
-                      "count_At45_Stagins.sql","bulk_insert_At45.sql","procedure.sql"]                      
+    "list_queries" :["insert_into_At45_Stagins.sql",
+                  "count_At45_Stagins.sql","bulk_insert_At45.sql",
+                  "procedure.sql","insert_auditoria.sql",
+                  "validar_auditoria.sql"]
 }
 
